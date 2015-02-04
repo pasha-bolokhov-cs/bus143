@@ -1,0 +1,77 @@
+.d2l-homepage {
+	margin: 0 -10px;
+}
+
+.d2l-widget-header {
+	padding: 6px 10px;
+	position: relative;
+}
+
+.d2l-widget-header .d2l-heading {
+	color: inherit;
+	line-height: 1.3em;
+	margin-right: 50px;
+	overflow: hidden;
+	padding-bottom: 0;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.d2l-widget-header-clickable {
+	cursor:pointer;
+}
+
+.d2l-widget-header-seperator {
+	width: 1px;
+	background: #b4b4b4;
+	height: 1.1em;
+	float: left;
+	margin: 5px 0 0 0.5em;
+}
+
+.d2l-widget {
+	margin-bottom: 10px;
+	position: relative;
+}
+
+.d2l-homepage .d2l-box-h > .d2l-widget {
+	margin-right: 10px;
+}
+
+.d2l-homepage .d2l-box-h:last-child > .d2l-widget {
+	margin-right: 0px;
+}
+
+.d2l-widget-header .d2l-homepage-heading-link {
+	color: inherit;
+}
+
+.d2l-widget-header .d2l-homepage-heading-link:hover {
+	text-decoration: underline;
+}
+
+.d2l-widget-content .d2l-heading {
+	max-width: 100%;
+	word-wrap: break-word;
+}
+
+.d2l-homepage-header-wrapper {
+	margin-right: -50px;
+	overflow: hidden;
+	max-width: 100%;
+	float: left;
+}
+
+.d2l-homepage-header-menu-wrapper {
+	float: left;
+}
+
+.d2l-homepage-header-collapse-wrapper {
+	float: right;
+	margin-top: 0.3em;
+}
+
+.d2l-homepage-header-menu-wrapper
+.d2l-homepage-header-collapse-wrapper {
+	display: inline-block;
+}
