@@ -1,0 +1,36 @@
+
+fieldset.dfs_m {
+	border: none 0;
+	padding: 0;
+	margin: 0;
+	display: inline;
+}
+
+
+legend.dfs_l, legend.dfs_l_f {
+	color: #000000;
+	padding: 0;
+	margin: 0;
+	border: none 0;
+}
+
+
+div.dfs_c, div.dfs_c_f  {
+	padding-top: 0.3em;
+}
+
+
+legend.dfs_l_f {
+	position: relative;
+	float: left;
+	text-align: right;
+	white-space: normal !important;
+	color: #6b6b6b;
+	font-weight: bold;
+	text-shadow: 0 1px 0 #FFFFFF;
+}
+
+
+div.dfs_c_f {
+	padding-top: 0;
+}

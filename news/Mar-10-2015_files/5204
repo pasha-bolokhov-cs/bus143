@@ -1,0 +1,19 @@
+#d2l_navbar a.bottomLeft,#d2l_navbar a.bottomLeft:visited,#d2l_navbar a.bottomLeft:hover {
+	color:#FFFFFF;
+}
+#d2l_navbar a.bottomLeft:hover {
+	color:#C7CF18;
+}
+#d2l_navbar a.bottomLeft,#d2l_navbar a.bottomLeft:visited,#d2l_navbar a.bottomLeft:hover {
+}
+#d2l_navbar a.bottomLeft,#d2l_navbar a.bottomLeft:visited,#d2l_navbar a.bottomLeft:hover {
+	color:#FFFFFF;
+	font-size: 10pt;
+	font-weight: normal;
+	text-decoration: none;
+}
+#d2l_navbar a.bottomLeft:hover {
+	color:#C7CF18;
+}
+#d2l_navbar a.bottomLeft,#d2l_navbar a.bottomLeft:visited,#d2l_navbar a.bottomLeft:hover {
+}
